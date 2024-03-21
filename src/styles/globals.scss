@@ -1,0 +1,23 @@
+
+:root{
+  --primary-color:  #6b66e4;
+  --color-red: #c93d40;
+  --color-green: #7ac07e;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  max-width: 100vw;
+  
+
+  color: #333333;
+  font-size: 16px;
+  overscroll-behavior: none;
+}
+

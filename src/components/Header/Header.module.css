@@ -1,0 +1,13 @@
+.wrapper{
+    height: 50px;
+    background-color: #6b66e4;
+    color: rgb(253, 253, 253);
+    padding: 0 30px;
+}
+
+.inner-wrap{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 10px 0;
+}
